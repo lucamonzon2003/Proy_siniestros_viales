@@ -7,15 +7,15 @@ atravez de procesos de tratamiento de datos y analisis de los mismo pudimos que 
 
 ## **Vista del Dashboard**
 
-![Dashboard Demo 1](./imagenes/Dashboard_2.png)
+![Dashboard Demo 1](Imagenes/Dashboard_2.png)
 
-![Dashboard Demo 2](./imagenes/Dashboard.png)
+![Dashboard Demo 2](Imagenes/Dashboard.png)
 
 ## **Analisis**
 
 Para abrir el EDA debera descargar el archivo html y abrirlo en su navegador preferido, aqui le dejo una imagen de donde puede descargarlo:
 
-![Download example](./imagenes/Download.png)
+![Download example](Imagenes/Download.png)
 
 #### [Análisis de datos exploratorio](./ETL_EDA/siniestros_report_eda.html)
 
