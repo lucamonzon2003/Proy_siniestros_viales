@@ -5,15 +5,19 @@
 PROYECTO INDIVIDUAL Nº2: **Siniestros viales**
 atravez de procesos de tratamiento de datos y analisis de los mismo pudimos que se pueden ver en este repositorio, pudimos preparar los datasets para su visualizacion y su investigaciòn en busca de insight`s.
 
-<img src="./images/Dashboard.png" width="500" height="250"> <img src="./images/Dashboard_2.png" width="500" height="250">
+## **Vista del Dashboard**
 
-Dashboards Demo...
+![Dashboard Demo 1](./imagenes/Dashboard_2.png)
+
+![Dashboard Demo 2](./imagenes/Dashboard.png)
 
 ## **Analisis**
 
-#### [Análisis de datos exploratorio](./ETL_EDA/siniestros_report_eda.html)
+Para abrir el EDA debera descargar el archivo html y abrirlo en su navegador preferido, aqui le dejo una imagen de donde puede descargarlo:
 
-#### [Siniestros viales](./Analisis_dashboard.ipynb)                  
+![Download example](./imagenes/Download.png)
+
+#### [Análisis de datos exploratorio](./ETL_EDA/siniestros_report_eda.html)
 
 ## **Pasos para la instalaciòn del proyecto**
 
@@ -24,7 +28,6 @@ Dashboards Demo...
 ## **Tecnologias usadas**
 
 * Power Bi
-#### Librerias: 
 * matplotlib
 * openpyxl
 * pandas
@@ -41,9 +44,6 @@ Dashboards Demo...
 
 > https://cdn.buenosaires.gob.ar/datosabiertos/datasets/transporte-y-obras-publicas/victimas-siniestros-viales/NOTAS_HOMICIDIOS_SINIESTRO_VIAL.pdf
 
-## **Conclusiones**
-
-####
 
 ## **Licencia**
 
