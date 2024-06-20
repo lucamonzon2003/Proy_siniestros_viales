@@ -3,7 +3,7 @@
 ## **Descripción**
 
 PROYECTO INDIVIDUAL Nº2: **Siniestros viales**
-atravez de procesos de tratamiento de datos y analisis de los mismo pudimos que se pueden ver en este repositorio, pudimos preparar los datasets para su visualizacion y su investigaciòn en busca de insight`s.
+atraves de procesos de tratamientos y analisis de los datos proporcionados, pudimos preparar para su visualizacion y su analisis en busca de insight's.
 
 ## **Vista del Dashboard**
 
